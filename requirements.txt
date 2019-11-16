@@ -1,4 +1,5 @@
-fastai==1.0.59
-numpy==1.16.3
+numpy
 scipy
 scikit-image
+matplotlib
+Pillow
