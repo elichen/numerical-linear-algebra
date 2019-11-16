@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elichen/numerical-linear-algebra/master)
+
+
 ## Computational Linear Algebra for Coders
 
 This course is focused on the question: **How do we do matrix computations with acceptable speed and acceptable accuracy?**
