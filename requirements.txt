@@ -2,4 +2,4 @@ numpy
 scipy
 scikit-image
 matplotlib
-Pillow
+Pillow==2.6.1
